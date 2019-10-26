@@ -1,0 +1,12 @@
+#include<stdio.h>
+main()
+{
+int r a=0,b=1,c=0;
+printf("Enter a range\t");
+scanf("%d",c);
+a=b;
+b=c;
+c=a+b;
+r--;
+}while(r>0);
+}
